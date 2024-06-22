@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/earum-aliquid-nemo-porro",
-  "version": "4.8.40",
+  "version": "4.8.41",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -478,5 +478,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/earum-aliquid-nemo-porro/issues"
   },
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.1"
 }
